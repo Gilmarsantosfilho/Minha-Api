@@ -17,7 +17,7 @@
 
 \[minhas Chave api\]
 
-| email | api | Verificado | site |
+| email | api | Verificado |
 | :--- | :--- | :--- |
 | [gilmarfederalfbi@gmail.com](https://hunter.io/) - Público |  ff91e7e53d0ac705c99e755b398b80b9b17b75d5 | [hunter] | :white\_check\_mark: :key: | 
 | [gilmarfederalfbi@gmail.com](https://breachdirectory.org/) - Público | be2b2ce0-7289-11ed-a5d1-99f90d862581 | :white\_check\_mark: :key: |
