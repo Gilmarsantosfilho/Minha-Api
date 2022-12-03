@@ -30,8 +30,11 @@
 \[login\]
 
 
-| hunter.io | [gilmarfederalfbi@gmail.com] | apipassword20203 |
+| hunter.io | gilmarfederalfbi@gmail.com | apipassword20203 |
 | :--- | :--- | :--- | 
 
 | virus total | gilmarfederalfbi@gmail.com | Gilmar@2003 | 
+| :--- | :--- | :--- | 
+
+| Intelligence X | gilmarfederalfbi@gmail.com | gdI#7]J]OdON | 
 | :--- | :--- | :--- | 
