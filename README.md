@@ -29,6 +29,6 @@
 
 \[Passowrd\]
 
-| site | email | senha | 
-| :--- | | :--- | | :--- |
-| hunter.io | gilmarfederalfbi@gmail.com | apipassword20203 |
+| site | email | senha | verificado |
+| :--- | | :---  | :--- |
+| hunter.io | gilmarfederalfbi@gmail.com | apipassword20203 | :white\_check\_mark: :key: | 
