@@ -31,4 +31,4 @@
 
 | site | email | senha | verificado |
 | :--- | | :---  | :--- |
-| hunter.io | gilmarfederalfbi@gmail.com | apipassword20203 | :white\_check\_mark: :key: | 
+| hunter.io | [gilmarfederalfbi@gmail.com] | apipassword20203 | :white\_check\_mark: :key: | 
