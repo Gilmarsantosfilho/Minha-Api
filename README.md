@@ -31,10 +31,6 @@
 
 | site | email | senha | verificado 
 | :--- | | :---  
-| hunter.io | [gilmarfederalfbi@gmail.com] | apipassword20203 | :white\_check\_mark: :key: | 
-
-
----
-
-| email | api | site | 
+| hunter.io | [gilmarfederalfbi@gmail.com] | apipassword20203 | 
+| virus total | gilmarfederalfbi@gmail.com | Gilmar@2003 | 
 | :--- | :--- | :--- | 
